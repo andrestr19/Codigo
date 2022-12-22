@@ -1,2 +1,0 @@
-# Codigo
-sistema Venta
